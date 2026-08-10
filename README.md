@@ -1,10 +1,5 @@
 # Subdivisional B-rep Evaluation of Lattice Structures (Subdiv-Lattice)
 
-- By: Guoyue Luo and Qiang Zou
--  email: qzou.code@gmail.com
-- webpage: https://qiang-zou.github.io/
-- Latest Release: 2025.09
-
 
 <img align="left" src="subdiv-lattice.png"> 
 <br />
