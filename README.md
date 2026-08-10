@@ -16,20 +16,12 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 - SubdivLattice is developed and now maintained by Guoyue Luo and Qiang Zou for research use. All rights about the program are reserved by Guoyue Luo and Qiang Zou. This C++ source codes are available only to a primary use for academic purposes. No secondary use, such as copy, distribution, diversion, business purpose, etc., is allowed. In no event shall the author be liable to any party for direct, indirect, special, incidental, or consequential damage arising out of the use of this program. SubdivLattice is self-contained. 
 
 
-2.Download
-----------
-
-- The source code, as well as the testing data, can be downloaded from the page: 
-  
-  webpage: https://github.com/Qiang-Zou/Subdiv-Lattice/
-
-
-3.Installing & Compiling (Windows+MSVS14.0)
+2.Installing & Compiling (Windows+MSVS14.0)
 -------------------------------------------
 
 - Simply download the source code to a suitable place, install Eigen, pmp, OpenMesh, OpenCascade Libraries, and use MSVC14.0 to build the project.
 
-4.Usage
+3.Usage
 -------
 
 - After the compilation you can run the tool SubDivLattice.exe inside the ./x64/release/ directory:
@@ -42,7 +34,7 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 "../../subDivLattice/data/cube.edge"
 	
 
-5.File format
+4.File format
 -------------
 - Node file: lattice node file (placed in ./data, and any extension can be used).
 	- line 1:	edge_number dimension 0 0
@@ -56,7 +48,7 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 	- **Note** n1 n2: the index of node; x: edge mark used in Tetgen
 
 
-6.References
+5.References
 -------------
 - [1] Guoyue Luo, Qiang Zou, Soap Film-inspired Subdivisional Lattice Structure Construction, Computer_Aided Design, 2025.
 - [2] Qiang Zou, Guoyue Luo, Geometric modeling for microstructure design and manufacturing: A review, Computer-Aided Design (2024).
