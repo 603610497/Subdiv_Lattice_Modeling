@@ -13,7 +13,7 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 1.Copyright
 -----------
 
-- SubdivLattice is developed and now maintained by Guoyue Luo and Qiang Zou for research use. All rights about the program are reserved by Guoyue Luo and Qiang Zou. This C++ source codes are available only to a primary use for academic purposes. No secondary use, such as copy, distribution, diversion, business purpose, etc., is allowed. In no event shall the author be liable to any party for direct, indirect, special, incidental, or consequential damage arising out of the use of this program. SubdivLattice is self-contained. 
+- This C++ source codes are available only to a primary use for academic purposes. No secondary use, such as copy, distribution, diversion, business purpose, etc., is allowed. In no event shall the author be liable to any party for direct, indirect, special, incidental, or consequential damage arising out of the use of this program. SubdivLattice is self-contained. 
 
 
 2.Installing & Compiling (Windows+MSVS14.0)
